@@ -1,12 +1,12 @@
 <!-- Greeting -->
-## Hi there, I'm Nabil 👋
+<h2 align="center">## Hi there, I'm Nabil 👋</h2>
 
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/NabilBasriH/NabilBasriH/main/banner_github.png" alt="banner" style="width:100%;" />
 
 <!-- Animated Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+an+Android+Developer;Passionate+about+Kotlin+and+clean+code;Always+learning+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+an+Android+Developer;Passionate+about+Kotlin;Always+learning+and+improving" alt="Typing SVG" />
 </h1>
 
 <!-- Introduction -->
