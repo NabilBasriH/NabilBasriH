@@ -6,7 +6,7 @@
 
 <!-- Animated Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+an+Android+Developer;Passionate+about+Kotlin;Always+learning+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=550&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+an+Android+Developer;Passionate+about+Kotlin;Always+learning+and+improving" alt="Typing SVG" />
 </h1>
 
 <!-- Introduction -->
