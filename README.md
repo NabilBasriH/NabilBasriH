@@ -2,7 +2,7 @@
 ## Hi there, I'm Nabil 👋
 
 <!-- Banner -->
-<img src="https://your-banner-url.com/banner.png" alt="banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/NabilBasriH/NabilBasriH/main/banner_github.png" alt="banner" style="width:100%;" />
 
 <!-- Animated Typing SVG -->
 <h1 align="center">
